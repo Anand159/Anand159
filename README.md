@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar Soni</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
-<img align="center" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 - 🌱 I’m currently learning **Full-Stack-Web Development**
 
