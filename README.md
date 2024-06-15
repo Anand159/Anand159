@@ -1,4 +1,4 @@
-![logo](https://github.com/Anand159/Anand159/blob/main/2.jpg)
+
 <h1 align="center">Hi 👋, I'm Anand Kumar Soni</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
