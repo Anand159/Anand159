@@ -40,18 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anand159&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=anand159&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🔥 What I Build
 
 * 🏪 SaaS Applications (like Jewellery Shop System)
