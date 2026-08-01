@@ -1,24 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Anand Kumar Soni</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
-<br>
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-- 🌱 I’m currently learning ** Full-Stack-Web Development **
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/anand_soni__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anand_soni__07" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand159&show_icons=true&locale=en&layout=compact" alt="anand159" /></p> -->
-
-
-
-
 <h1 align="center">Hi 👋, I'm Anand Kumar Soni</h1>
-<h3 align="center">🚀 Full-Stack Software Engineer from India</h3>
+<h3 align="center">🚀 Full-Stack Software Engineer from India | Future AI/ML Engineer</h3>
 
 <br>
 
@@ -26,9 +7,11 @@
 
 ### 👨‍💻 About Me
 
-* 🌱 Currently working on **Full-Stack Web Development**
+* 🌱 Currently working as a **Full-Stack Web Developer**
 * 💡 Strong focus on building **real-world scalable applications**
 * ⚡ Love working with **Backend + APIs + Databases**
+* 🤖 Future Goal: Transition into **Backend + AI/ML Engineering**
+* ☁️ Comfortable with **GCP deployments** and **CI/CD using GitHub Actions**
 * 🎯 Goal: Become a **Top Software Engineer**
 
 ---
@@ -75,6 +58,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </p>
 
+#### ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -95,12 +86,16 @@
 * ⚡ FastAPI Backend APIs
 * 🌐 Full-Stack Web Apps (React + Next.js)
 * 🗄️ Database-driven systems (MSSQL + PostgreSQL)
+* ☁️ Cloud-deployed apps on **GCP** with **GitHub Actions CI/CD**
+
+---
+
+### 🎯 Where I'm Heading
+
+> Currently a Full-Stack Developer, working towards becoming a **Backend + AI/ML Engineer** — combining solid backend engineering with machine learning to build intelligent, production-ready systems.
 
 ---
 
 ### 🚀 Fun Fact
 
-> I don’t just write code, I build **systems that solve real problems** 💡
-
----
-
+> I don't just write code, I build **systems that solve real problems** 💡
